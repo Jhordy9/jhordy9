@@ -6,7 +6,7 @@ I’m currently a software developer at LOUDgg. Technology passionate, currently
 
 
 
-### Some Tools I Use 🚀
+### Some technologies that I work and study 🚀
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="35" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="35" />
