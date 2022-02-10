@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Jhordy
 
-I’m currently a software developer at LOUDgg. Technology passionate, currently I'm study blockchain and backend in general, but I'm always open for new things to study or work.
+I’m currently a backend engineer at SNACKCLUB. Technology passionate, currently I'm study blockchain and backend in general, but I'm always open for new things to study or work.
 
 <p> <a href="https://www.linkedin.com/in/serbis/"><img src="https://img.shields.io/badge/-Jhordy Isensee-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/jhordyisensee/" alt="LinkedIn Badge"></a></p>
 
